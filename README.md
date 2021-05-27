@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Next.js and Typescript
 - 💞️ I’m looking to collaborate on projects related to web or desktop app develpoment
-- 📫 Send me an email at abdullahr0804@gmail.com or find me on [LinkedIn](linkedin.com/in/abdullah-raja-86b515163)
+- 📫 Send me an email at abdullahr0804@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/abdullah-raja-86b515163/)
 
 <!---
 wryhook/wryhook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
